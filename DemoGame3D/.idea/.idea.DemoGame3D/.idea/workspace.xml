@@ -1,6 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61739b94-9345-41c3-a4a4-f1aac8873969" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoGame3D/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoGame3D/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoGame3D/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/Gray.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/Gray.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/Inspector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/Inspector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorComponentView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorComponentView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorGridView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorGridView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorMainView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorMainView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorPrefs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorPrefs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorSearch.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorSearch.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorSelection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorSelection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorTypeView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorTypeView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Smart/Inspector/Editor/InspectorView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoGame3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoGame3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animator/Player/PlayerAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animator/Player/PlayerAnimatorController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestCharacter.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestCharacter.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/_Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/_Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4a31731933e0419ca5a995305014ad37157a00/96/a5788a2b/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CN2mhs0imePeoX74e30XGGF5Vm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61739b94-9345-41c3-a4a4-f1aac8873969" name="Changes" comment="" />
+      <created>1658628883858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658628883858</updated>
+      <workItem from="1658628888753" duration="4335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
